@@ -1,6 +1,8 @@
 # Ml.Tests
 
-Small applications using self-written [Machine Leaning Library](https://github.com/Coestaris/ml). For older commit history check library repo.
+Small applications using self-written [Machine Leaning Library](https://github.com/Coestaris/ml).
+All projects work with both Microsoft Visual Studio and Mono.
+For older commit history check library repo.
 
 #### Project roadmap:
 ```
@@ -12,6 +14,12 @@ ML.Tests
    └── XORCalculator     - Visualization of NN learning to calculate XOR 
 ```
 
+#### Build and run projects
+```bash
+git clone --recurse-submodules -j8 https://github.com/Coestaris/ml.Tests
+cd ml.Tests
+xbuild
+```
 
 ##### XORCalculator examples:
 ![](https://raw.githubusercontent.com/Coestaris/ml.Tests/master/images/xor1.gif)

@@ -54,10 +54,10 @@ namespace XORCalculator
             };
 
             var tasks = new List<XORTask>();
-            for(int i = 0; i < 1000; i++)
+            for(var i = 0; i < 1000; i++)
                 tasks.Add(new XORTask());
 
-            _network = new NeuralNetwork(new []{ 2, 5, 5, 2} );
+            _network = new NeuralNetwork(new []{ 2, 4, 4, 2} );
             _network.FillGaussianRandom();
             var teacher = new Teacher(_network, 1, 1, tasks.Cast<TrainSample>().ToList())
             {

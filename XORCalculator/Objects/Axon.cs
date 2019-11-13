@@ -1,11 +1,11 @@
 using System;
 using System.Drawing;
-using ml.AI;
+using MLLib.AI;
 using OpenTK;
 using OpenTK.Graphics.OpenGL;
-using WindowHandler;
+using MLLib.WindowHandler;
 
-namespace XORCalculator.Objects
+namespace MLLib.Tests.XORCalculator.Objects
 {
     public class Axon : DrawableObject
     {

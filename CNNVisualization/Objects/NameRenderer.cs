@@ -1,12 +1,12 @@
 using System;
 using System.Drawing;
 using System.Linq;
-using ml.AI.CNN;
-using ml.AI.CNN.Layers;
+using MLLib.AI.CNN;
+using MLLib.AI.CNN.Layers;
 using OpenTK;
-using WindowHandler;
+using MLLib.WindowHandler;
 
-namespace CNNVisualization.Objects
+namespace MLLib.Tests.CNNVisualization.Objects
 {
     internal struct LayerLabel
     {

@@ -1,11 +1,11 @@
 using System;
 using System.Drawing;
-using ml.AI.CNN;
+using MLLib.AI.CNN;
 using OpenTK;
 using OpenTK.Graphics.OpenGL;
-using WindowHandler;
+using MLLib.WindowHandler;
 
-namespace CNNVisualization.Objects
+namespace MLLib.Tests.CNNVisualization.Objects
 {
     internal struct MinMax
     {

@@ -1,12 +1,12 @@
 using System;
 using System.Drawing;
-using ml.AI;
+using MLLib.AI;
 using OpenTK;
 using OpenTK.Graphics.OpenGL;
 using OpenTK.Input;
-using WindowHandler;
+using MLLib.WindowHandler;
 
-namespace CNNVisualization.Objects
+namespace MLLib.Tests.CNNVisualization.Objects
 {
     public class DrawableBrush
     {

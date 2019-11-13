@@ -1,11 +1,11 @@
 ﻿using System;
 using System.IO;
 using System.Linq;
-using ml.AI.RNN;
+using MLLib.AI.RNN;
 
-namespace RNNDemo
+namespace MLLib.Tests.RNNDemo
 {
-    internal class Program
+    internal static class Program
     {
         public static Random Random;
 

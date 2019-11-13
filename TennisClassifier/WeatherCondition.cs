@@ -1,7 +1,7 @@
 using System;
-using ml.AI;
+using MLLib.AI;
 
-namespace TennisClassifier
+namespace MLLib.Tests.TennisClassifier
 {
     public enum Temperature
     {

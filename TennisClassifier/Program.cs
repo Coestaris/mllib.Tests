@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using ml.AI;
-using ml.AI.MBNN;
-using ml.AI.OBNN;
-using NeuralNetwork = ml.AI.OBNN.NeuralNetwork;
+using MLLib.AI;
+using MLLib.AI.MBNN;
+using MLLib.AI.OBNN;
+using NeuralNetwork = MLLib.AI.OBNN.NeuralNetwork;
 
-namespace TennisClassifier
+namespace MLLib.Tests.TennisClassifier
 {
     internal class Program
     {

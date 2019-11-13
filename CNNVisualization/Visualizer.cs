@@ -1,15 +1,15 @@
 using System.Drawing;
 using System.Linq;
-using CNNVisualization.Objects;
-using ml.AI;
-using ml.AI.CNN;
-using ml.AI.CNN.Layers;
+using MLLib.AI;
+using MLLib.AI.CNN;
+using MLLib.AI.CNN.Layers;
+using MLLib.Tests.CNNVisualization.Objects;
 using OpenTK;
 using OpenTK.Graphics.OpenGL;
-using WindowHandler;
-using WindowHandler.Controls;
+using MLLib.WindowHandler;
+using MLLib.WindowHandler.Controls;
 
-namespace CNNVisualization
+namespace MLLib.Tests.CNNVisualization
 {
     public class Visualizer : WindowHandler.WindowHandler
     {

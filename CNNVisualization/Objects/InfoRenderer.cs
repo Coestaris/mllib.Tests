@@ -1,7 +1,7 @@
 using OpenTK;
-using WindowHandler;
+using MLLib.WindowHandler;
 
-namespace CNNVisualization.Objects
+namespace MLLib.Tests.CNNVisualization.Objects
 {
     public class InfoRenderer : DrawableObject
     {

@@ -3,9 +3,9 @@ using System.Drawing;
 using System.Globalization;
 using OpenTK;
 using OpenTK.Graphics.OpenGL;
-using WindowHandler;
+using MLLib.WindowHandler;
 
-namespace XORCalculator.Objects
+namespace MLLib.Tests.XORCalculator.Objects
 {
     public class Neuron : DrawableObject
     {

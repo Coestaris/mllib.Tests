@@ -2,10 +2,10 @@
 using System.Drawing.Imaging;
 using System.Linq;
 using System.Threading;
-using ml.AI;
-using ml.AI.OBNN;
+using MLLib.AI;
+using MLLib.AI.OBNN;
 
-namespace HWDRecognizer
+namespace MLLib.Tests.HWDRecognizer
 {
     internal static class Program
     {

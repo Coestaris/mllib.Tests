@@ -1,15 +1,15 @@
 using System;
 using System.Drawing;
 using System.Threading;
-using ml.AI;
-using ml.AI.OBNN;
+using MLLib.AI;
+using MLLib.AI.OBNN;
+using MLLib.Tests.XORCalculator.Objects;
 using OpenTK;
 using OpenTK.Graphics.ES11;
-using XORCalculator.Objects;
-using WindowHandler;
-using WindowHandler.Controls;
+using MLLib.WindowHandler;
+using MLLib.WindowHandler.Controls;
 
-namespace XORCalculator
+namespace MLLib.Tests.XORCalculator
 {
     internal static class TextureIds
     {

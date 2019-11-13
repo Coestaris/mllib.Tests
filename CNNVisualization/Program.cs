@@ -1,11 +1,11 @@
 ﻿using System.Collections.Generic;
 using System.Drawing;
-using ml.AI.CNN;
-using ml.AI.CNN.Layers;
+using MLLib.AI.CNN;
+using MLLib.AI.CNN.Layers;
 using OpenTK.Graphics;
-using WindowHandler;
+using MLLib.WindowHandler;
 
-namespace CNNVisualization
+namespace MLLib.Tests.CNNVisualization
 {
     internal class Program
     {

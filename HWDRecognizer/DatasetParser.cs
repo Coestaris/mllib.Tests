@@ -6,9 +6,9 @@ using System.Drawing.Imaging;
 using System.IO;
 using System.Linq;
 using System.Runtime.InteropServices;
-using ml.AI;
+using MLLib.AI;
 
-namespace HWDRecognizer
+namespace MLLib.Tests.HWDRecognizer
 {
     public class HWImage : TrainSample
     {

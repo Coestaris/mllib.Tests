@@ -2,13 +2,13 @@
 using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
-using ml.AI;
-using ml.AI.OBNN;
+using MLLib.AI;
+using MLLib.AI.OBNN;
 using OpenTK.Graphics;
 using OpenTK.Graphics.ES11;
-using WindowHandler;
+using MLLib.WindowHandler;
 
-namespace XORCalculator
+namespace MLLib.Tests.XORCalculator
 {
     internal class Program
     {

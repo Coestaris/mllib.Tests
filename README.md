@@ -15,4 +15,7 @@ ML.Tests
 
 
 ##### XORCalculator examples:
-    
+![](https://raw.githubusercontent.com/Coestaris/ml.Tests/master/images/xor1.gif)
+![](https://raw.githubusercontent.com/Coestaris/ml.Tests/master/images/xor2.gif)
+##### CNNVisualization example:
+![](https://raw.githubusercontent.com/Coestaris/ml.Tests/master/images/cnn.gif)

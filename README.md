@@ -1,7 +1,6 @@
 # Ml.Tests
 
-Small applications using self-written [Machine Leaning Library](https://github.com/Coestaris/ml)
-For older commit history check library repo
+Small applications using self-written [Machine Leaning Library](https://github.com/Coestaris/ml). For older commit history check library repo.
 
 #### Project roadmap:
 ```

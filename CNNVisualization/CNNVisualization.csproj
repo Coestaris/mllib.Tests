@@ -53,11 +53,11 @@
     <Compile Include="Visualizer.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MLLib\MLLib.csproj">
+    <ProjectReference Include="..\mllib\MLLib\MLLib.csproj">
       <Project>{f3a99d22-8ef0-4156-8300-7c903d407d4e}</Project>
       <Name>MLLib</Name>
     </ProjectReference>
-    <ProjectReference Include="..\WindowHandler\WindowHandler.csproj">
+    <ProjectReference Include="..\mllib\WindowHandler\WindowHandler.csproj">
       <Project>{a170af94-dd8f-4726-b218-debecbfc703b}</Project>
       <Name>WindowHandler</Name>
     </ProjectReference>

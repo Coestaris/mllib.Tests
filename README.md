@@ -10,6 +10,7 @@ ML.Tests
 └──┬── CNNVisualization  - Visualization of recognizing handwritten numbers using CNN
    ├── HWDRecognizer     - Recognizing MNIST images using NN
    ├── RNNDemo           - Generating text using RNN
+   ├── GADemo            - Searching minimum of function and solving XOR using GA
    ├── TennisClassifier  - Classifying task solving with NN
    └── XORCalculator     - Visualization of NN learning to calculate XOR 
 ```
